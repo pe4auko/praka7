@@ -1,0 +1,16 @@
+.cat {
+    width: 1000px;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    margin-left: 150px;
+  }
+
+.text{
+    font-size: 14pt;
+
+}
+.photos_section{
+    margin-bottom: 20px;
+}
